@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevGB
 - 👀 I’m interested in the Environment and battling the climate crisis.
-- 🌱 I’m currently learning front-end Web Development
+- 🌱 I’m currently learning Web and App Development
 - 💞️ I’m looking to collaborate on anything where I can gain experience and confidence
 - 📫 How to reach me: kevingbice@gmail.com
 
