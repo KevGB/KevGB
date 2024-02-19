@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KevGB
-- 👀 I’m interested in the Environment and battling the climate crisis.
-- 🌱 I’m currently learning Web and App Development
-- 💞️ I’m looking to collaborate on anything where I can gain experience and confidence
+- ⚛️ Web Developer specialized in React and Firebase, with experience in React Native, Node, MongoDB, Express
+- 📝 UX/UI Designer specializing in Figma Prototyping
+- 👀 I’m interested in the Environment and battling the climate crisis, sp I'm especially happy to partner with non-profits and government agencies in this field
+- 🐻 Studied at UC Berkeley, NuCamp, & Google UX Certified
 - 📫 How to reach me: kevingbice@gmail.com
 
 <!---
